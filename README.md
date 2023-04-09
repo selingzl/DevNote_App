@@ -1,16 +1,13 @@
 # DevNote App
+Oyun ve Uygulama Akademisi bursiyerlerinin kendilerine özel notlar oluşturma ve sorularını cevaplarıyla kaydedebileceği bir uygulama!
 
-A new Flutter project.
 
-## Getting Started
+Şüphesiz oyun ve uygulama akademisinde eğitimlerin zorluğundan dolayı akademi bursiyerleri sürekli şikayette bulunmuş ve bu durum akademideki çoğu bursiyerin motivasyonunu olumsuz yönde etkilemişti. 
+Geliştirmiş olduğumuz uygulamanın amacı akademi eğitimlerinde karşılaşılan zorlukların tanımlanıp soru kısmına kaydedilmesi ve sorunun nasıl çözüldüğünü cevap kısmına kaydedip sonradan bu sorunlarla karşılaşan bursiyerlerin kolayca çözüme ulaşmasını sağlamak ve isterlerse modül sonlarında önemli bulduğu noktaları notlar kısmına eklemesidir. 
+Böylelikle akademideki eğitimlerle ilgili meydana gelen sorunların tekrarlanmasının önüne geçecek ve akademi içindeki motivasyonun korunmasını sağlayacaktır.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Oyun ve Uygulama Akademisi bursiyerleri olarak çalıştığımız eğitimleri ve bu sırada aklımızda oluşan soruların çözümlerini hatırlayabileceğimiz bir kayıt sistemi uygulamasının önemli bir ihtiyaç olduğuna karar verdik. Akademi bursiyerlerine yaptığımız bu uygulamayla artık eğitimler için kendinize özel notlar oluşturabilecek ve sorularınızı cevaplarıyla kaydedebileceksiniz. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+" DevNote, Akademi bursiyerleri için yeni not tutma defteri! "
