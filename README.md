@@ -1,4 +1,4 @@
-# proje
+# DevNote App
 
 A new Flutter project.
 
